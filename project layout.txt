@@ -1,0 +1,32 @@
+I’ll generate the full project structure in this chat.
+
+You can copy it into a folder on your computer, then zip it, and push to GitHub.
+
+From there, just follow the Netlify walkthrough I wrote up.
+
+paul-hayes-invention-site/
+├── index.html
+├── vite.config.js
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── netlify.toml
+├── public/
+│   └── admin/
+│       ├── index.html
+│       └── config.yml
+├── src/
+│   ├── main.jsx
+│   ├── App.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Videos.jsx
+│   │   ├── Events.jsx
+│   │   ├── Blog.jsx
+│   │   ├── Contact.jsx
+│   └── components/
+│       ├── Navbar.jsx
+│       ├── Footer.jsx
+│       └── EventCard.jsx
+└── README.md
+C:\Users\Paul Hayes\Desktop\Gigs\paul-hayes-invention-site
